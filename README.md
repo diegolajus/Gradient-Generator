@@ -11,4 +11,3 @@ Check the results [here !](https://gradient-generator.diegolajus.vercel.app/)
 *last update 27/12*
 
 
-![Design preview for the Huddle landing page with alternating feature blocks coding challenge](./img/resume.jpg)
